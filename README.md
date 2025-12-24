@@ -1,2 +1,7 @@
-# temperature-control-fuzzy-logic
-Fuzzy logic–based temperature control system using Python (scikit-fuzzy)
+# Temperature Control Using Fuzzy Logic
+
+Python-based Mamdani fuzzy inference system using scikit-fuzzy.
+Inputs: Temperature, Humidity
+Output: Fan Speed
+Includes triangular membership functions and rule-based control.
+
